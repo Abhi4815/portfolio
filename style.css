@@ -1,0 +1,66 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(107,14,70,0.6474964985994398) 0%, rgba(0,212,255,1) 100%);
+}
+.name{
+    color: rgb(199, 138, 24);
+    text-align: justify;
+    
+}
+li{
+    display: flex;
+    display: inline;  
+    align-items: flex-end;
+    padding: 7px;
+}
+.head-container{
+    background-image: linear-gradient(to right, green, rgb(23, 23, 112));
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+
+}
+.tab-1{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,88,1) 34%, rgba(0,212,255,1) 100%);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tab-2{
+    height: 550px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.about-me{
+    padding: 100px;
+
+}
+.about{
+    padding: 100px;
+}
+
+img{
+    height:350px;
+}
+h1{
+    color: rgb(28, 202, 12);
+}
+
+.contact{
+    background-color: aquamarine;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+}
+a{
+    padding: 10px;
+
+}
